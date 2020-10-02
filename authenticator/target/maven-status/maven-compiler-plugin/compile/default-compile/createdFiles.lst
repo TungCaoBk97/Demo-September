@@ -1,0 +1,9 @@
+org/keycloak/examples/authenticator/SecretQuestionCredentialProvider.class
+org/keycloak/examples/authenticator/credential/dto/SecretQuestionCredentialData.class
+org/keycloak/examples/authenticator/SecretQuestionAuthenticatorFactory.class
+org/keycloak/examples/authenticator/SecretQuestionAuthenticator.class
+org/keycloak/examples/authenticator/credential/dto/SecretQuestionSecretData.class
+org/keycloak/examples/authenticator/SecretQuestionCredentialProviderFactory.class
+org/keycloak/examples/authenticator/SecretQuestionRequiredActionFactory.class
+org/keycloak/examples/authenticator/credential/SecretQuestionCredentialModel.class
+org/keycloak/examples/authenticator/SecretQuestionRequiredAction.class
